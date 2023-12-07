@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Vasile Milea",
+	"description": "This is a test repository",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
