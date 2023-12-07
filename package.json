@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Vasile Milea",
 	"description": "This is a test repository",
+	"keywords": ["freeCodeCamp", "NPM", "learn", "Node.js"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
